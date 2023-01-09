@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "day01.Contorller.TestController",
+      "name": "people",
+      "type": "day01.Contorller.TestController"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "day01.Contorller.TestController",
+      "name": "people.addr",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "day01.Contorller.TestController",
+      "name": "people.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "day01.Contorller.TestController",
+      "name": "people.name",
+      "type": "java.lang.String"
+    }
+  ]
+}

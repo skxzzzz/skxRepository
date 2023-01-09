@@ -1,0 +1,14 @@
+server:
+    port: 8080
+
+people:
+  name: skx
+  age: 25
+  addr: shanxi
+list:
+  - name: skx
+    age: 25
+    addr: shanxi
+  - name: skx1
+    age: 26
+    addr: shanxi1
